@@ -1,0 +1,3 @@
+[submodule "r-quick-share-bin"]
+	path = r-quick-share-bin
+	url = https://github.com/lilium-aur/r-quick-share-bin
