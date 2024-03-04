@@ -1,3 +1,6 @@
 [submodule "r-quick-share-bin"]
 	path = r-quick-share-bin
 	url = https://github.com/lilium-aur/r-quick-share-bin
+[submodule "ufetch-artix"]
+	path = ufetch-artix
+	url = https://github.com/neroices/ufetch-artix.git
